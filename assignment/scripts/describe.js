@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// letting the variable "name" become Dane
+// if variable is set to mary the console says Hi Mary
+// since the variable is not set to mary 
+//console log says how do you do
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// stating the existents of variable of secret 
+// the variable code is 123
+// if the code is equal to 123 which it true the super code is 246
+//the secret is super
 
 //CODE
 /*
@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// stating the existent of variable of is a student who is 34 and lives
+// in 55407. Student does not live on the west coast
+// the age it isnt 
 //
 
 //CODE
