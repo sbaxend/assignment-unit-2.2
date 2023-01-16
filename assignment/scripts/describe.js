@@ -49,6 +49,7 @@ if (name === 'Mary') {
 // the variable code is 123
 // if the code is equal to 123 which it is true the super code is 246
 //the secret is super because the code is less than 250
+//We also dont need to move any further because it found a match.
 
 //CODE
 /*
